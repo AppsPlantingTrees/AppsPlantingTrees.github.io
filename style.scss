@@ -14,7 +14,7 @@
 /**************/
 
 html {
-  //font-size: 100%;
+  font-size: 100%;
 }
 
 body {
@@ -116,6 +116,11 @@ img {
 }
 
 .date {
+  font-style: italic;
+  color: $gray;
+}
+
+.photo_autor {
   font-style: italic;
   color: $gray;
 }
