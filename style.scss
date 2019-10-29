@@ -123,6 +123,8 @@ img {
 .photo_autor {
   font-style: italic;
   color: $gray;
+  vertical-align: super;
+  font-size: smaller;
 }
 
 // Specify the color of the selection
