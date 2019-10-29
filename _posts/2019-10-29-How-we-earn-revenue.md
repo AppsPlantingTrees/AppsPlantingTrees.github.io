@@ -6,7 +6,7 @@ tags: apps
 The answer is simple: we earn money by showing ads in our apps, like most developers on Google Play.
 
 <img src="{{site.url}}/images/how_we_earn_revenue.jpg" style="display: block; margin: auto;" />
-<i><h4> Photo by Andrew Neel on Unsplash </h4></i>
+<sub><sup><i>Photo by Andrew Neel on Unsplash</i></sup></sub>
 
 Each view brings us a small amount of money from the advertiser. Click on the ad would get us more revenue, but please click on ads ONLY if you are genuinely interested in the product. False clicks will be detected and we wouldn’t get any payment for them.
 
