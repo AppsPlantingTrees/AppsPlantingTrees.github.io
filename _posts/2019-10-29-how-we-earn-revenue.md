@@ -16,3 +16,5 @@ If you want to change the color theme of the app (or change board size in 2048),
 <img src="{{site.url}}/images/phone_timer_arrow.jpg" style="display: block; margin: auto;" />
 
 In case you don’t have an internet connection, you can simply change the color theme (or change board size in 2048) without any ads.
+
+<i>Updated 21.12.2019</i>
